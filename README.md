@@ -15,9 +15,7 @@ This tool automates the process of parsing and responding to emails from Google 
 ## Technologies Used
 
 - **Node.js**
-- **TypeScript**
 - **BullMQ**
-- **MySQL**
 - **OAuth 2.0**
 - **GeminiAI API**
 
