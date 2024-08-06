@@ -4,8 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "server": "nodemon index.js",
-    "start": "nodemon bullmq.worker.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -24,7 +23,6 @@
     "ioredis": "^5.4.1",
     "mongoose": "^6.3.1",
     "nodemailer": "^6.9.14",
-    "nodemon": "^2.0.22",
     "openai": "^4.54.0"
   }
 }
